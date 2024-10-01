@@ -1,4 +1,4 @@
-## SHREE LEKHA.S 212223110052
+## NARRA RAMYA -212223040128
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
